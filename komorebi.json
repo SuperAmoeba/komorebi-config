@@ -14,9 +14,10 @@
   "theme": {
     "palette": "Catppuccin",
     "name": "Macchiato",
+    "single_border": "Mauve",
     "unfocused_border": "Lavender",
     "bar_accent": "Mauve",
-    "floating_border": "Mauve",
+    "floating_border": "Rosewater",
     "monocle_border": "Sky"
   },
   "monitors": [
