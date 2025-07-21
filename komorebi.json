@@ -14,10 +14,10 @@
   "theme": {
     "palette": "Catppuccin",
     "name": "Macchiato",
-    "unfocused_border": "Sky",
+    "unfocused_border": "Lavender",
     "bar_accent": "Mauve",
     "floating_border": "Mauve",
-    "monocle_border": "Peach"
+    "monocle_border": "Sky"
   },
   "monitors": [
     {
