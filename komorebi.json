@@ -24,23 +24,23 @@
     {
       "workspaces": [
         {
-          "name": "I",
+          "name": "一",
           "layout": "BSP"
         },
         {
-          "name": "II",
+          "name": "二",
           "layout": "RightMainVerticalStack"
         },
         {
-          "name": "III",
+          "name": "三",
           "layout": "Grid"
         },
         {
-          "name": "IV",
+          "name": "四",
           "layout": "Grid"
         },
         {
-          "name": "V",
+          "name": "五",
           "layout": "RightMainVerticalStack"
         }
       ]
