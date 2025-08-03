@@ -42,6 +42,18 @@
         {
           "name": "五",
           "layout": "RightMainVerticalStack"
+        },
+        {
+          "name": "六",
+          "layout": "BSP"
+        },
+        {
+          "name": "七",
+          "layout": "BSP"
+        },
+        {
+          "name": "八",
+          "layout": "BSP"
         }
       ]
     }
